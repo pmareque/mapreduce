@@ -1,0 +1,103 @@
+Colorado Springs        10061105.87
+Santa Ana       10050712.85
+Chula Vista     9974951.34
+Henderson       10053416.05
+Fort Wayne      10132964.57
+Riverside       10007717.03
+Anaheim 10076416.36
+Laredo  10144604.98
+Birmingham      10076606.52
+Corpus Christi  9976548.15
+Philadelphia    10190764.05
+Mesa    10053642.6
+Pittsburgh      10091140.58
+Madison 10032052.32
+Chesapeake      10038504.92
+Cincinnati      10139805.29
+Columbus        10035241.03
+Nashville       9961747.94
+North Las Vegas 10029652.51
+Winston–Salem   10044011.83
+Boise   10039647.83
+Kansas City     9968421.42
+Los Angeles     10084576.8
+Oklahoma City   10118986.25
+Phoenix 10079447.91
+Sacramento      10123468.18
+Spokane 10083811.96
+Stockton        10006659.82
+Wichita 10084103.59
+Hialeah 10047052.76
+Lexington       10084870.24
+Buffalo 10002425.01
+Dallas  10066548.45
+Fremont 10053708.02
+Jacksonville    10072362.98
+New York        10085762.46
+Rochester       10067606.92
+Albuquerque     10052752.12
+Aurora  9993088.73
+Raleigh 10061442.54
+Tucson  9998620.23
+Washington      10139756.2
+Garland 10071178.25
+Oakland 9947447.85
+Durham  10154447.97
+Irvine  10084867.45
+Cleveland       10067835.84
+Plano   10046103.61
+Reno    10080123.87
+Richmond        9992941.59
+Baltimore       10096521.45
+Irving  10133944.08
+Denver  10031534.87
+Las Vegas       10054404.63
+San Diego       9966104.47
+San Jose        9937151.28
+St. Louis       10002105.14
+Tulsa   10065181.03
+Anchorage       9934586.62
+Baton Rouge     10131273.23
+New Orleans     9949657.14
+Austin  10058463.68
+Newark  10144092.55
+San Antonio     10014567.05
+Scottsdale      10037929.85
+Houston 10042415.43
+Lubbock 9958571.22
+Portland        10007744.46
+Lincoln 10069622.3
+Minneapolis     10011939.83
+Bakersfield     10031208.92
+Milwaukee       10064901.56
+San Francisco   9995831.19
+Long Beach      10006380.25
+Miami   9947316.07
+Orlando 10074922.52
+Tampa   10106428.55
+Toledo  10020827.96
+Atlanta 9997401.32
+St. Petersburg  9986648.44
+El Paso 10016409.97
+Glendale        10044493.97
+Memphis 10038574.79
+Louisville      10008566.47
+San Bernardino  9965422.62
+Seattle 9936267.37
+Chandler        9920318.03
+Norfolk 10089232.42
+Saint Paul      10057266.7
+Chicago 10062569.3
+Virginia Beach  10087201.17
+Detroit 9979260.76
+Fort Worth      10121198.1
+Jersey City     9920141.87
+Arlington       10072207.97
+Charlotte       10112971.45
+Greensboro      10034225.11
+Honolulu        10006618.67
+Omaha   10027521.4
+Fresno  9976923.73
+Boston  10039892.22
+Gilbert 10062115.19
+Indianapolis    10090408.73
