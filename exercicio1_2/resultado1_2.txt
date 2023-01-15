@@ -1,0 +1,18 @@
+DVDs    230281
+Crafts  229755
+Music   230154
+Sporting Goods  229937
+Toys    229972
+Computers       229064
+Men's Clothing  230438
+Health and Beauty       229670
+Cameras 229325
+CDs     230044
+Garden  230081
+Baby    230299
+Books   229794
+Children's Clothing     230472
+Women's Clothing        230056
+Video Games     230242
+Consumer Electronics    229767
+Pet Supplies    229225
